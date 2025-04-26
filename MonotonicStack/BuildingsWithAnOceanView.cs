@@ -1,4 +1,5 @@
-public class Solution{
+public class Solution1
+{
     public int[] FindBuildings(int[] heights)
     {
         int n = heights.Length;
@@ -14,7 +15,7 @@ public class Solution{
         while(st.Count()>0)
         {
             res[st.Count()-1]=st.Peek();
-            st.Pop()''
+            st.Pop();
         }
         return res;
     }

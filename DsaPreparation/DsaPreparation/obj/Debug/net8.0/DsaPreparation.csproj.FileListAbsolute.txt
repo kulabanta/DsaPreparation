@@ -1,0 +1,15 @@
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\bin\Debug\net8.0\DsaPreparation.exe
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\bin\Debug\net8.0\DsaPreparation.deps.json
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\bin\Debug\net8.0\DsaPreparation.runtimeconfig.json
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\bin\Debug\net8.0\DsaPreparation.dll
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\bin\Debug\net8.0\DsaPreparation.pdb
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.AssemblyInfoInputs.cache
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.AssemblyInfo.cs
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.csproj.CoreCompileInputs.cache
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.sourcelink.json
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.dll
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\refint\DsaPreparation.dll
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.pdb
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\DsaPreparation.genruntimeconfig.cache
+D:\job preparation\coding practice\DsaPreparation\DsaPreparation\DsaPreparation\obj\Debug\net8.0\ref\DsaPreparation.dll
