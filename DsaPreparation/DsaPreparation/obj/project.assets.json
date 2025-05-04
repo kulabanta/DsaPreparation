@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\job preparation\\coding practice\\DsaPreparation\\DsaPreparation\\DsaPreparation\\DsaPreparation.csproj",
+      "projectUniqueName": "E:\\job preparation\\coding practice\\DsaPreparation\\DsaPreparation\\DsaPreparation\\DsaPreparation.csproj",
       "projectName": "DsaPreparation",
-      "projectPath": "D:\\job preparation\\coding practice\\DsaPreparation\\DsaPreparation\\DsaPreparation\\DsaPreparation.csproj",
+      "projectPath": "E:\\job preparation\\coding practice\\DsaPreparation\\DsaPreparation\\DsaPreparation\\DsaPreparation.csproj",
       "packagesPath": "C:\\Users\\kulaj\\.nuget\\packages\\",
-      "outputPath": "D:\\job preparation\\coding practice\\DsaPreparation\\DsaPreparation\\DsaPreparation\\obj\\",
+      "outputPath": "E:\\job preparation\\coding practice\\DsaPreparation\\DsaPreparation\\DsaPreparation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kulaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
